@@ -47,4 +47,4 @@ SqFtTotLiving vs SalePrice
 
 📹 Demo
 
-Check out the YouTube video (https://youtu.be/Unguph7BeKc) where this program is demonstrated. 
+Check out the YouTube video (https://youtu.be/Unguph7BeKc) where this model is demonstrated, and video testing of the model following this link (https://youtu.be/4PxTi96d4_8). 
